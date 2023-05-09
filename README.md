@@ -10,7 +10,7 @@ I'm currently working on personal projects to improve my knowledge and trying to
 
 ---
 ### Technologies and tools that I work with:
-![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-DD0031?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-DD0031?style=flat-square&logo=django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
